@@ -1,0 +1,29 @@
+.header{
+	height: 100px;
+	background-color: blue;}
+
+	.container{
+		overflow: hidden;
+	}
+.item{
+	float: left;
+	width: 25%;
+	height: 100px;
+
+}
+.red{background-color: red;
+
+}
+.green{background-color: green;
+
+}
+.black{background-color: black;
+
+}
+.yellow{background-color: yellow;
+
+}
+.footer{
+	height: 100px;
+	background-color: aqua;
+}
